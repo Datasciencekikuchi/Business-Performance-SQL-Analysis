@@ -118,4 +118,4 @@ CASE classification, GROUP BY aggregation, categorical banding, metric compariso
 
 ## Tools
 
-- SQL
+- SQLite Studio
