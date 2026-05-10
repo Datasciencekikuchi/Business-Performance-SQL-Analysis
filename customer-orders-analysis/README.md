@@ -52,8 +52,13 @@ The dataset is structured as a relational database (`BIT_DB`) containing multipl
 | `orderdate` | Date and time of purchase |
 | `acctnum` | Customer account number |
 
+The following diagram illustrates the relational structure of the `BIT_DB` dataset used throughout the analysis. The database follows a star-schema-inspired structure, with the `customers` table acting as the central dimension table connected to monthly sales transaction tables.
+
+![BIT_DB Entity Relationship Diagram](./visuals/ER_Diagram.png)
+
 📌 **Note:**  
 This dataset required data-quality filtering prior to analysis. Invalid order IDs and duplicated header rows were excluded from calculations to ensure reporting accuracy.
+
 
 
 ---
