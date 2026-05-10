@@ -9,7 +9,7 @@ This project analyses transactional sales and customer data from a US-based reta
 The analysis was conducted using SQLite (SQLiteStudio) across a relational database containing monthly sales tables and a customer accounts table.
 
 The SQL code used for this analysis is available in:
-- `sql_queries.sql`
+- `customer_oders_analysis.sql`
 
 ---
 
@@ -54,6 +54,7 @@ The dataset is structured as a relational database (`BIT_DB`) containing multipl
 
 📌 **Note:**  
 This dataset required data-quality filtering prior to analysis. Invalid order IDs and duplicated header rows were excluded from calculations to ensure reporting accuracy.
+
 
 ---
 
@@ -100,7 +101,7 @@ Understanding monthly order concentration supports:
 - product performance monitoring
 - seasonal sales analysis
 
-📸 *[Insert screenshot: January order volume query result]*
+📸 *[Insert screenshot: January order volume query result]* 
 
 ---
 
