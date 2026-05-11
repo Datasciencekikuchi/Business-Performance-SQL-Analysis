@@ -83,7 +83,7 @@ These filters ensured:
 
 This demonstrates awareness of real-world data-quality issues commonly encountered in operational datasets.
 
-📸 *[Insert screenshot: row count before and after filtering]*
+![Data Quality Validation](./Visuals/data_quality_validation.png)
 
 ---
 
