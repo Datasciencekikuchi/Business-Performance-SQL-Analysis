@@ -106,7 +106,7 @@ Understanding monthly order concentration supports:
 - product performance monitoring
 - seasonal sales analysis
 
-📸 *[Insert screenshot: January order volume query result]* 
+![Monthly Order Volume Analysis](./Visuals/monthly_order_volume.png)
 
 ---
 
