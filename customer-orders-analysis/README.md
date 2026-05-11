@@ -96,7 +96,7 @@ The analysis measured:
 - iPhone-specific order counts
 - high-demand product concentration
 
-The iPhone represented a significant proportion of January order volume, positioning it as one of the highest-demand products during the analysed period.
+January recorded 9,681 total orders after data quality filtering. Of those, 379 orders were for iPhones, representing approximately 3.92% of January's total order volume. This positioned the iPhone as one of the highest-demand individual products during the analysed period.
 
 ### Business Value
 
