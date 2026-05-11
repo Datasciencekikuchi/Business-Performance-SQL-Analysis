@@ -83,7 +83,7 @@ These filters ensured:
 
 This demonstrates awareness of real-world data-quality issues commonly encountered in operational datasets.
 
-![Data Quality Validation](./Visuals/data_quality_validation.png)
+![Data Quality Validation](./screenshots/data_quality_validation.png)
 
 ---
 
@@ -106,7 +106,7 @@ Understanding monthly order concentration supports:
 - product performance monitoring
 - seasonal sales analysis
 
-![Monthly Order Volume Analysis](./Visuals/monthly_order_volume.png)
+![Monthly Order Volume Analysis](./screenshots/monthly_order_volume.png)
 
 ---
 
