@@ -9,7 +9,7 @@ This project analyses transactional sales and customer data from a US-based reta
 The analysis was conducted using SQLite (SQLiteStudio) across a relational database containing monthly sales tables and a customer accounts table.
 
 The SQL code used for this analysis is available in:
-- `customer_oders_analysis.sql`
+- `sql_queries.sql`
 
 ---
 
