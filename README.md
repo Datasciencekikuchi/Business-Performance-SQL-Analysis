@@ -69,25 +69,7 @@ GROUP BY aggregation, weighted averages, subqueries, CASE classification
 
 ---
 
-### 4. Retail Pricing & Category Performance Analysis (Superstore)
-
-**Business Question**  
-Which product categories demonstrate stronger pricing performance and higher customer ratings?
-
-**Analytical Focus**
-- Average pricing comparisons by category
-- Filtering high-rated products
-- Price-performance segmentation
-
-**Business Value**
-Informs merchandising decisions and product positioning strategies.
-
-**Techniques Used**
-AVG aggregation, WHERE filtering, ORDER BY sorting, category segmentation
-
----
-
-### 5. Spotify Audio Feature Performance Analysis
+### 4. Spotify Audio Feature Performance Analysis
 
 **Business Question**  
 Which audio characteristics are associated with higher track popularity?
