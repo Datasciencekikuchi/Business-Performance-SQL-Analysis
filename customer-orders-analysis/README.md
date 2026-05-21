@@ -144,7 +144,7 @@ Product-level revenue analysis supports:
 - category performance evaluation
 - merchandising decisions
 
-📸 *[Insert screenshot or chart: revenue by product]*
+![Revenue by Product_January](./screenshots/revenue_by_product_january.png)
 
 ---
 
