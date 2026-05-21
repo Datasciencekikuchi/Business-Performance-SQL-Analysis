@@ -139,8 +139,6 @@ Products such as batteries and charging cables generated comparatively lower rev
 
 The project also identified the lowest-priced product sold during January to better understand product pricing distribution and lower-cost inventory positioning.
 
-![Revenue by Product_January](./screenshots/revenue_by_product_january.png)
-
 ---
 
 ### Headphone Category Performance — February
@@ -168,6 +166,10 @@ Product-level revenue analysis supports:
 
 Distinct customer account numbers were retrieved for all February transactions by joining sales and customer reference tables.
 
+This establishes a baseline for analysing future customer retention, repeat purchasing behaviour, and acquisition trends across additional monthly datasets.
+
+---
+
 ### Average Order Value — February
 
 Average transaction revenue was calculated using:
@@ -176,16 +178,43 @@ Average transaction revenue was calculated using:
 AVG(quantity * price)
 ```
 
-This established a baseline measure of customer spending behaviour.
+This established a baseline measure of customer spending behaviour across all valid February transactions.
+
+The average February transaction value was approximately **$190.00**.
+
+---
 
 ### Bulk Purchaser Analysis
 
-Customers purchasing more than two products in a single transaction were isolated as a high-value customer segment.
+Customers purchasing more than two items in a single February transaction were isolated for behavioural analysis.
 
 The analysis measured:
 - number of high-volume purchasers
 - average spend for bulk purchasers
 - purchasing behaviour differences relative to general customers
+
+A total of **278 bulk-purchase transactions** were identified, with an average transaction value of approximately **$13.83**.
+
+Interestingly, despite purchasing larger quantities of products, these transactions generated significantly lower average revenue compared to the overall February transaction average of **$190.00**.
+
+This suggests bulk-purchase behaviour within the dataset was more strongly associated with lower-cost accessory or utility products rather than premium electronic devices.
+
+![Bulk Purchaser Analysis](./screenshots/bulk_purchaser_analysis.png)
+
+---
+
+### Business Value
+
+Customer-level behavioural analysis supports:
+- customer segmentation
+- product bundling analysis
+- pricing strategy development
+- inventory planning
+- targeted promotional initiatives
+
+![Bulk Purchaser Analysis](./screenshots/bulk_purchaser_analysis.png)
+
+---
 
 ### Business Value
 
