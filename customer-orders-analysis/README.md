@@ -125,15 +125,31 @@ Results were aggregated at product level to identify:
 - low-performing products
 - pricing differences across product categories
 
-The analysis identified the highest-revenue product in January based on total sales value.
+The analysis identified the **Macbook Pro Laptop** as the highest-revenue product in January, generating approximately **$399,500** in total sales value.
+
+Revenue distribution was concentrated among premium electronics products, with laptops, smartphones, monitors, and audio accessories contributing the majority of January sales revenue.
+
+Products such as batteries and charging cables generated comparatively lower revenue, despite likely contributing consistent transaction volume.
+
+![Revenue by Product - January](./screenshots/revenue_by_product_january.png)
+
+---
 
 ### Cheapest Product — January
 
-The project also identified the lowest-priced product sold during January to better understand product pricing distribution.
+The project also identified the lowest-priced product sold during January to better understand product pricing distribution and lower-cost inventory positioning.
+
+![Revenue by Product_January](./screenshots/revenue_by_product_january.png)
+
+---
 
 ### Headphone Category Performance — February
 
-Headphone-related products were isolated using product filtering logic to evaluate category-level sales volume.
+Headphone-related products were isolated using product filtering logic to evaluate category-level sales volume across audio accessory products.
+
+This analysis helped identify demand patterns within the accessories category and provided additional insight into consumer purchasing behaviour beyond premium electronic devices.
+
+---
 
 ### Business Value
 
@@ -143,8 +159,6 @@ Product-level revenue analysis supports:
 - inventory planning
 - category performance evaluation
 - merchandising decisions
-
-![Revenue by Product_January](./screenshots/revenue_by_product_january.png)
 
 ---
 
@@ -182,7 +196,7 @@ Customer-level behavioural analysis supports:
 - retention strategy development
 - basket-size optimisation
 
-📸 *[Insert screenshot: bulk purchaser query result]*
+![bulk_purchaser_analysis](./screenshots/bulk_purchaser_analysis.png)
 
 ---
 
