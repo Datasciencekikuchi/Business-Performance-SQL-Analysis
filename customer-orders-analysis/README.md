@@ -96,7 +96,7 @@ The analysis measured:
 - iPhone-specific order counts
 - high-demand product concentration
 
-January recorded 9,681 total orders after data quality filtering. Of those, 379 orders were for iPhones, representing approximately 3.92% of January's total order volume. The iPhone ranked among the highest-demand individual products during the analysed period.
+January recorded 9,681 total orders after data quality filtering. Of these, 379 orders were for iPhones, accounting for approximately 3.92% of January's total order volume and indicating notable consumer demand for the product during the analysed period.
 
 ### Business Value
 
@@ -145,7 +145,7 @@ The project also identified the lowest-priced product sold during January to bet
 
 Headphone-related products were isolated using product filtering logic to evaluate category-level sales volume across audio accessory products.
 
-This analysis helped identify demand patterns within the accessories category and provided additional insight into consumer purchasing behaviour beyond premium electronic devices.
+This analysis helped identify demand patterns within the accessories category, supporting inventory planning, category performance evaluation, and potential cross-selling opportunities alongside premium electronic products.
 
 ---
 
@@ -273,13 +273,13 @@ Geographic analysis supports:
 | iPhone demand | One of the highest-demand products |
 | Highest-revenue product | Significant revenue concentration observed |
 | Average February order value | Established customer spending baseline |
-| Bulk purchaser behaviour | Higher average spend than standard customers |
+| Bulk purchaser behaviour | Higher product quantities but lower average transaction values |
 | Geographic demand | Premium purchasing concentrated in selected regions |
 
 ## Key Findings
 
 - Product revenue was concentrated among a limited number of high-performing products.
-- Bulk purchasers represented a smaller but higher-value customer segment.
+- Bulk-purchase transactions were associated with lower-cost accessory and utility products rather than premium electronic devices.
 - Geographic purchasing behaviour varied across locations and states.
 - Data quality filtering was necessary to ensure analytical accuracy.
 - Product category demand differed significantly across product groups.
@@ -294,7 +294,7 @@ Geographic analysis supports:
 - Expand monitoring of category-level demand trends.
 
 ## Customers
-- Develop incentives targeting high-volume purchasers.
+- Explore bundled pricing and accessory-based promotional strategies for high-volume, lower-cost product purchases.
 - Introduce retention analysis across future months.
 - Build customer segmentation models using purchasing behaviour.
 
