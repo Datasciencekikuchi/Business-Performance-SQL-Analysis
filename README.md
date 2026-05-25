@@ -12,26 +12,7 @@ The focus is not only technical execution, but translating raw data into actiona
 
 ## Projects
 
-### 1. Customer & Orders Performance Analysis
-
-**Business Question**  
-Which customers, products, and locations generate the highest revenue and order volume?
-
-**Analytical Focus**
-- Customer segmentation (bulk vs average spenders)
-- Revenue by product and geographic location
-- Order frequency and purchasing patterns
-- Transaction-level data validation and filtering
-
-**Business Value**
-Supports targeted marketing initiatives, pricing optimisation, and customer retention strategies.
-
-**Techniques Used**
-JOINs, DISTINCT, CASE logic, GROUP BY aggregation, revenue calculations, data-quality filtering
-
----
-
-### 2. Climate Conference Participation Analysis
+### 1. Climate Conference Participation Analysis
 
 **Business Question**  
 How do attendee participation patterns relate to booking behaviour and feedback engagement?
@@ -50,7 +31,7 @@ LEFT and INNER JOINs, self-joins, subqueries, CASE logic, GROUP BY aggregation
 
 ---
 
-### 3. Fortune Companies Workforce & Benefits Benchmarking
+### 2. Fortune Companies Workforce & Benefits Benchmarking
 
 **Business Question**  
 How do workforce size, revenue, and employee benefits compare across industries?
@@ -69,7 +50,7 @@ GROUP BY aggregation, weighted averages, subqueries, CASE classification
 
 ---
 
-### 4. Spotify Audio Feature Performance Analysis
+### 3. Spotify Audio Feature Performance Analysis
 
 **Business Question**  
 Which audio characteristics are associated with higher track popularity?
