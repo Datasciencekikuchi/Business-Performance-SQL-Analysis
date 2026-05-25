@@ -212,41 +212,48 @@ Customer-level behavioural analysis supports:
 - inventory planning
 - targeted promotional initiatives
 
-![Bulk Purchaser Analysis](./screenshots/bulk_purchaser_analysis.png)
-
----
-
-### Business Value
-
-Customer-level behavioural analysis supports:
-- loyalty programme development
-- customer segmentation
-- targeted promotions
-- retention strategy development
-- basket-size optimisation
-
-![bulk_purchaser_analysis](./screenshots/bulk_purchaser_analysis.png)
-
 ---
 
 ## 5. Geographic Analysis
 
-### Seattle Location-Level Sales
+### Location-Level Sales — February (Seattle)
 
-The project examined sales activity at:
+At `548 Lincoln St, Seattle, WA 98101`, the following products were sold in February:
 
-```text
-548 Lincoln St, Seattle, WA 98101
-```
+| Product | Units Sold | Total Revenue (USD) |
+|---|---:|---:|
+| AA Batteries (4-pack) | 2 | $7.68 |
 
-The analysis identified:
-- products sold at this location
-- units sold
-- revenue generated per product
+Location-level analysis at this granularity supports decisions around:
+- regional stock allocation
+- store-level performance benchmarking
+- local demand evaluation
+- operational planning
 
-### Georgia High-Value Orders — April
+---
 
-Orders from Georgia where the average item price exceeded $1,000 were isolated to identify regions associated with premium purchasing behaviour.
+### High-Value Orders — Georgia, April
+
+April orders from Georgia locations where the average item price exceeded **$1,000** were identified.
+
+A total of **37 high-value orders** met this threshold, concentrated across multiple locations within **Atlanta, Georgia**, including:
+
+- 959 Main St, Atlanta, GA 30301
+- 945 Maple St, Atlanta, GA 30301
+- 911 10th St, Atlanta, GA 30301
+- 901 Chestnut St, Atlanta, GA 30301
+
+Each qualifying order recorded an average item price of approximately **$1,700**, indicating concentrated premium product demand within the Atlanta market during the analysed period.
+
+High average price points at these locations suggest opportunities for:
+- targeted premium product allocation
+- localised marketing initiatives
+- regional sales optimisation
+- premium inventory planning
+
+![Georgia High-Value Orders Analysis](./screenshots/georgia_high_value_orders.png)
+
+---
 
 ### Business Value
 
@@ -255,8 +262,6 @@ Geographic analysis supports:
 - territory performance benchmarking
 - localised marketing initiatives
 - operational planning decisions
-
-📸 *[Insert screenshot: Georgia high-value orders query result]*
 
 ---
 
