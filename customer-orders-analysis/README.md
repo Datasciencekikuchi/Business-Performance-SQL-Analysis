@@ -267,14 +267,18 @@ Geographic analysis supports:
 
 # Executive Summary
 
-| Metric | Insight |
+# Executive Summary
+
+| Metric | Value |
 |---|---|
-| January order activity | Strong overall transaction volume |
-| iPhone demand | One of the highest-demand products |
-| Highest-revenue product | Significant revenue concentration observed |
-| Average February order value | Established customer spending baseline |
-| Bulk purchaser behaviour | Higher product quantities but lower average transaction values |
-| Geographic demand | Premium purchasing concentrated in selected regions |
+| January total orders | 9,681 |
+| January iPhone orders | 379 (3.92% of total) |
+| Highest-revenue product (January) | Macbook Pro Laptop — $399,500 |
+| February average order value | $190.00 |
+| February bulk purchaser count | 278 transactions |
+| Bulk purchaser average transaction value | $13.83 |
+| February bulk purchaser behaviour | Higher product quantities but lower transaction values |
+| Georgia high-value orders (April, >$1,000 avg) | 37 orders |
 
 ## Key Findings
 
