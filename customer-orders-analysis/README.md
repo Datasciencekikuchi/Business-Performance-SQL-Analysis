@@ -267,8 +267,6 @@ Geographic analysis supports:
 
 # Executive Summary
 
-# Executive Summary
-
 | Metric | Value |
 |---|---|
 | January total orders | 9,681 |
